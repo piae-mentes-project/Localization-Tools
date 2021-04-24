@@ -1,6 +1,6 @@
 # Excel转Lang文件（翻译组用）
 
-Unicode更新：删除了不必要的文件/目录，新增了requirements.txt
+Unicode更新：删除了不必要的文件/目录，新增了requirements.txt，重写了.gitignore
 
 requirements.txt使用方法：
 
